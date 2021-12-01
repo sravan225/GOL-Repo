@@ -22,7 +22,7 @@
       key_name: sravan-aws-dev-2021	
       image: ami-0cd5e7835c80c3f02
       region: us-east-2
-      group: launch-wizard-6
+      group: launch-wizard-25
       count: 1
       wait: yes
       wait_timeout: 500
