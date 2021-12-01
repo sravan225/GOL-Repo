@@ -20,9 +20,9 @@
     ec2:
       instance_type: t2.micro
       key_name: sravan-aws-dev-2021	
-      image: ami-0cd5e7835c80c3f02
+      image: ami-01e0cee1a2edcad00
       region: us-east-2
-      group: launch-wizard-9
+      group: launch-wizard-13
       count: 1
       wait: yes
       wait_timeout: 500
