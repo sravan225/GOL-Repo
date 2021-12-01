@@ -20,7 +20,7 @@
     ec2:
       instance_type: t2.micro
       key_name: sravan-aws-dev-2021	
-      image: ami-0d770dc4665f0aa8b
+      image: ami-0cd5e7835c80c3f02
       region: us-east-2
       group: launch-wizard-25
       count: 1
